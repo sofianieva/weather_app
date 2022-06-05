@@ -1,4 +1,4 @@
-# :partly_sunny: Today's vs. Past London Weather app :partly_sunny:
+## :partly_sunny: Today's vs. Past London Weather app :partly_sunny:
 
 Web app that compares today's weather in London with the weather on similar dates from the past 5 years. The project features data retrieval from public API's, cleaning, exploration and an interactive visualization with plotly and streamlit. It's hosted on AWS, so if you want to use it just go to http://35.88.156.189:8501/ (the layout is not optimised for mobile phones)
 
