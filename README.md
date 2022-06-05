@@ -16,3 +16,5 @@ Future improvements:
 - Do it for other cities 
 - Add cloud and rain information
 - Analise other methods to determine common/uncommon weather
+
+Personal motivation for developing this project: One of the first things I do when I wake up is check what's the weather going to be like. I just love to see numbers that contain valuable information to help me decide what to wear. Then I realised, when I moved to a new city around a year ago, that it wasn't enough for me to just check today's weather, I also wanted information about what the weather was usually like at that time of the year. For example, suppose it's cold today, is it an unusually cold day in summer or is summer over and I have to rearrange my wardrobe? I realised I couldn't answer this because I had never experienced a summer there before!. So, yes, I might be a bit obsessed with the weather, but with this app, next time I move to a new city I'll make sure I have all the info I want from day one :)
