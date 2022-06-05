@@ -9,4 +9,10 @@ In this repo you can find:
 
 If you would like to clone the repo and run the app locally, first you would need to generate your own API keys for meteostat (RapidAPI) and vissualcrosing. Just go to their pages, choose their free tier and save the keys in a api_keys.json file containing {"RAPIDAPI_KEY": YourKey, "VC_KEY": YourKey}. Then use the comand "streamlit run main.py" in command line.
 
-Dependecies: pandas, numpy, json, datetime, plotly, calendar, pendulum, streamlit, requests
+Dependencies: pandas, numpy, json, datetime, plotly, calendar, pendulum, streamlit, requests
+
+Future improvements:
+- Add feature to be able to choose units of measurement, i.e., °C or °F, Km/h or mph or knots, etc.
+- Do it for other cities 
+- Add cloud and rain information
+- Analise other methods to determine common/uncommon weather
