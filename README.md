@@ -7,4 +7,4 @@ In this repo you can find:
 - Dataset sun_london_2022 downloaded from https://www.sunrise-and-sunset.com/en/sun/united-kingdom/london/2022
 - Files .py with the streamlit code and functions to run the app
 
-If you would like to clone the repo and run the app locally, first you would need to generate your own API keys for meteostat (RapidAPI) and vissualcrosing. Just go to their pages, choose their free tier and save the keys in a api_keys.json file containing {"RAPIDAPI_KEY": YourKey, "VC_KEY": YourKey}. Then use the comand "streamlit run main.py" in command line
+If you would like to clone the repo and run the app locally, first you would need to generate your own API keys for meteostat (RapidAPI) and vissualcrosing. Just go to their pages, choose their free tier and save the keys in a api_keys.json file containing {"RAPIDAPI_KEY": YourKey, "VC_KEY": YourKey}. Then use the comand "streamlit run main.py" in command line.
