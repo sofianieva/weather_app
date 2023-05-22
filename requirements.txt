@@ -1,0 +1,9 @@
+pandas
+numpy
+json
+datetime
+plotly
+calendar
+pendulum
+streamlit
+requests
