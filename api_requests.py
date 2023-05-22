@@ -14,6 +14,7 @@ def ms_api(today_str, RAPIDAPI_KEY):
     }
 
     response = requests.request("GET", url, headers=headers, params=querystring)
+    print(response)
     response_dict = json.loads(response.text)
     return response_dict
 
