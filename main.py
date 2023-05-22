@@ -36,11 +36,11 @@ leap_year = calendar.isleap(today.year)
 
 
 # API's requests and preprocessing of the data retrieved
-with open("api_keys.json") as keys:
-    key_dict = json.load(keys)
+#with open("api_keys.json") as keys:
+#    key_dict = json.load(keys)
     
-RAPIDAPI_KEY = key_dict["RAPIDAPI_KEY"]
-VC_KEY = key_dict["VC_KEY"]
+#RAPIDAPI_KEY = key_dict["RAPIDAPI_KEY"]
+#VC_KEY = key_dict["VC_KEY"]
 
 ## Today's hourly data
 try:
