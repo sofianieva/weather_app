@@ -1,4 +1,4 @@
 plotly==5.14.1
 pendulum==2.0
 requests==2.31.0
-json==3.11.3
+json==1.2
